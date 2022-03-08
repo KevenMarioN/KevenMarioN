@@ -1,13 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KevenMarioN.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/KevenMarioN?style=social)
 
-<p align='center'>
-<a href="https://dev.to/kevenmarion"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/KevenMNR"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kevenmario/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</br>
-
-</p>
 
 
 ## Bio - Olá, Desenvolvedores! 👋
@@ -23,6 +16,7 @@ Fora do Desenvolvimento, Keven gosta de tocar instrumentos músicas (Teclado,Vio
 <p align="center">
 
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+ <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/java-CB3837?.svg?&style=for-the-badge&logo=java&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/php%20-%23007ACC.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
@@ -31,6 +25,7 @@ Fora do Desenvolvimento, Keven gosta de tocar instrumentos músicas (Teclado,Vio
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+ <img src="https://img.shields.io/badge/-yarn-blue?style=flat-square&logo=yarn" height="25"/>
 <img src="https://img.shields.io/badge/-Composer-brow?style=flat-square&logo=composer&logoColor=brown" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 </p>
