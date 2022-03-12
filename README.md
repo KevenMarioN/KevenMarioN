@@ -7,7 +7,7 @@
 Keven Mário ele é desenvolvedor fullstack, ele é bastante curioso sobre tecnologia, aprendende com uma facilidade extrema. **[GitHub](https://github.com/KevenMarioN)**. 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-Keven atualmente trabalha por conta própria, em freelas. Aguardando oportunidade em trilhar uma carreira dev em empresas. 
+
 
 Fora do Desenvolvimento, Keven gosta de tocar instrumentos músicas (Teclado,Violão, Guitarra), Inventar acessórios tecnologicos e gosta de conhecer sobre a natureza.
 
