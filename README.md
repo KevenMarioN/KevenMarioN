@@ -1,52 +1,39 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KevenMarioN.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/KevenMarioN?style=social)
+# 👨‍💻 Desenvolvedor Full Stack | Focado em Golang e Sistemas Escaláveis
 
+Desenvolvedor com experiência sólida em backend com **Golang** e frontend com **TypeScript/React**.  
+Atuo construindo APIs, microsserviços, automações e sistemas de alta performance.  
+Curioso por natureza e movido por desafios técnicos.
 
+Produzo projetos com foco em boas práticas, código limpo e arquitetura escalável.
 
-## Bio - Olá, Desenvolvedores! 👋
-Keven Mário ele é desenvolvedor fullstack, ele é bastante curioso sobre tecnologia, aprendende com uma facilidade extrema. **[GitHub](https://github.com/KevenMarioN)**. 
+---
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+## 🛠️ Stacks
 
-
-Fora do Desenvolvimento, Keven gosta de tocar instrumentos músicas (Teclado,Violão, Guitarra), Inventar acessórios tecnologicos e gosta de conhecer sobre a natureza.
-
-## 💻 Tecnologia e Ferramentas
-
-<p align="center">
-
-<div style="display: inline_block"><br>
- <img align="center" alt="Keven-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
-  <img align="center" alt="Keven-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Keven-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Keven-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Keven-Jest" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Keven-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Keven-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Keven-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kevena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Keven-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Keven-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
- <img align="center" alt="Keven-Graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
- <img align="center" alt="Keven-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
- <img align="center" alt="Keven-win" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
- <img align="center" alt="Keven-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
- <img align="center" alt="Keven-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" >
-
+<p align="left">
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostGIS-0099CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NATS.io-2D6CDF?style=for-the-badge&logo=natsdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+ 
+ ### 🚀 In progress
+  <p align="left">
+   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  </p>
 </p>
 
-## ⭐ GitHub Status
+---
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=KevenMarioN&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KevenMarioN&hide=css,java,html&theme=tokyonight">
-</p>
-
-## 🎯 Vamos manter contato, me seguir!
-
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KevenMNR)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevenmario/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KevenMarionr)
-[![Instagram](https://img.shields.io/badge/instagram-%231877F2.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevenmario_)
-
-![Snake animation](https://github.com/KevenMarioN/KevenMarioN/blob/output/github-contribution-grid-snake.svg)
+📌 Em constante aprendizado e aberto a colaborar com projetos e ideias.
